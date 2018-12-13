@@ -102,3 +102,18 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# logfiles
+*.log
+
+# modules and extra
+*.so
+runSS.py
+
+# macOS X
+._*
+.DS_Store
+
+# output and cache
+output/*
+cache/*
